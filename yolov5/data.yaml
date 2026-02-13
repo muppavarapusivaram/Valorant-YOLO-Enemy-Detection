@@ -1,0 +1,4 @@
+train: ./small_data/images
+val: ./small_data/images
+nc: 1
+names: ['enemy']
