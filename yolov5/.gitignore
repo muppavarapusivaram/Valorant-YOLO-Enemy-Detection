@@ -22,9 +22,14 @@
 *.cfg
 !setup.cfg
 !cfg/yolov3*.cfg
+!runs/**/*.jpg
+!runs/**/*.jpeg
+!runs/**/*.png
+!runs/**/*.bmp
+!runs/**/*.mp4
+
 
 storage.googleapis.com
-runs/*
 data/*
 data/images/*
 !data/*.yaml
